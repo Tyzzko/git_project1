@@ -7,6 +7,8 @@
 def print_hi(name):
     print('My first git program')
     print('And I change it every day')
+    print('Again')
+    print('UFO came and added this line')
 
 
 # Press the green button in the gutter to run the script.
